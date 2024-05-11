@@ -12,7 +12,7 @@ This repository contains datasets and Jupyter Notebook for analyzing and predict
 1. Clone this repository:
 
     ```bash
-    git clone [https://github.com/aadarsh1810/Predictive-Analytics-Sourcing-Cost-Forecasting-Project]
+    git clone https://github.com/aadarsh1810/Predictive-Analytics-Sourcing-Cost-Forecasting-Project
     ```
 
 2. Navigate to the cloned repository:
