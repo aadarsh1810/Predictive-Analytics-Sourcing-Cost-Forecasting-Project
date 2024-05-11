@@ -26,6 +26,6 @@ This repository contains datasets and Jupyter Notebook for analyzing and predict
 ## Requirements
 
 - Python 3
-- Jupyter Notebook or JupyterLab
+- Jupyter Notebook or Google Colab
 - Required Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, lightgbm
 
