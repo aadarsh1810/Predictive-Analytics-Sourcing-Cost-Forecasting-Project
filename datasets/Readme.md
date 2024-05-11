@@ -1,1 +1,5 @@
-
+Every row represents the sourcing of one unit of a particular product combination.
+A unique product combination comprises of attributes mentioned in Columns A,B,C,D,E,F
+Since each row represents 1 unit of sourcing; therefore, you will find multiple rows with the same combination in the training dataset. Imagine buying 1 quantity being represented as a single row.
+July 20 to May 21 is your training set and June 21 is your test set; So using the 11 months data (Training Set: June 2020 to May 2021) you'd have the forecast / predict the June 2021 number (Test Set)
+June 2021 has only a single value for each combination as that is your test set (target).
