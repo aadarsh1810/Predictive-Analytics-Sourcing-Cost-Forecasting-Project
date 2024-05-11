@@ -21,7 +21,7 @@ This repository contains datasets and Jupyter Notebook for analyzing and predict
     cd Predictive-Analytics-Sourcing-Cost-Forecasting-Project
     ```
 
-3. Open and run the Jupyter Notebook `Sourcing_Cost_Prediction.ipynb` using Jupyter Notebook or JupyterLab.
+3. Open and run the Jupyter Notebook `Sourcing_Cost_Prediction.ipynb` using Jupyter Notebook or Google Colab.
 
 ## Requirements
 
